@@ -1,5 +1,5 @@
-#TimeComplexity: O(n)
-#Spacecomplexity: O(1)
+#TimeComplexity: O(1)
+#Spacecomplexity: O(n)
 class MyQueue:
 
     def __init__(self):
