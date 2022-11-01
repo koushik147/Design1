@@ -1,5 +1,5 @@
 #TimeComplexity: O(1)
-#SpaceComplexity: O(1)
+#SpaceComplexity: O(n)
 class MyHashSet(object):
 
     def __init__(self):
